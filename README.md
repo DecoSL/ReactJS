@@ -1,2 +1,2 @@
 # ReactJS
- Replicação do site ReactJS para a disciciplina de programação Web
+ Replicação do site ReactJS para a disciciplina de programação Web.
